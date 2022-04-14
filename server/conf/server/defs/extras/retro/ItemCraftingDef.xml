@@ -1,0 +1,163 @@
+<ItemCraftingDef-array>
+	<!-- GOLD -->
+	<ItemCraftingDef><!-- Ring -->
+		<requiredLvl>5</requiredLvl>
+		<itemID>283</itemID>
+		<exp>60</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Necklace -->
+		<requiredLvl>6</requiredLvl>
+		<itemID>288</itemID>
+		<exp>80</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Amulet -->
+		<requiredLvl>8</requiredLvl>
+		<itemID>296</itemID>
+		<exp>120</exp>
+	</ItemCraftingDef>
+	<!-- SAPPHIRE -->
+	<ItemCraftingDef><!-- Ring -->
+		<requiredLvl>8</requiredLvl>
+		<itemID>284</itemID>
+		<exp>160</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Necklace -->
+		<requiredLvl>10</requiredLvl>
+		<itemID>289</itemID>
+		<exp>220</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Amulet -->
+		<requiredLvl>13</requiredLvl>
+		<itemID>297</itemID>
+		<exp>260</exp>
+	</ItemCraftingDef>
+	<!-- EMERALD -->
+	<ItemCraftingDef><!-- Ring -->
+		<requiredLvl>18</requiredLvl>
+		<itemID>285</itemID>
+		<exp>220</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Necklace -->
+		<requiredLvl>24</requiredLvl>
+		<itemID>290</itemID>
+		<exp>240</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Amulet -->
+		<requiredLvl>30</requiredLvl>
+		<itemID>298</itemID>
+		<exp>280</exp>
+	</ItemCraftingDef>
+	<!-- RUBY -->
+	<ItemCraftingDef><!-- Ring -->
+		<requiredLvl>30</requiredLvl>
+		<itemID>286</itemID>
+		<exp>280</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Necklace -->
+		<requiredLvl>40</requiredLvl>
+		<itemID>291</itemID>
+		<exp>300</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Amulet -->
+		<requiredLvl>50</requiredLvl>
+		<itemID>299</itemID>
+		<exp>340</exp>
+	</ItemCraftingDef>
+	<!-- DIAMOND -->
+	<ItemCraftingDef><!-- Ring -->
+		<requiredLvl>42</requiredLvl>
+		<itemID>287</itemID>
+		<exp>340</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Necklace -->
+		<requiredLvl>56</requiredLvl>
+		<itemID>292</itemID>
+		<exp>360</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Amulet -->
+		<requiredLvl>70</requiredLvl>
+		<itemID>300</itemID>
+		<exp>400</exp>
+	</ItemCraftingDef>
+	<!-- DRAGONSTONE -->
+	<ItemCraftingDef><!-- Ring -->
+		<requiredLvl>54</requiredLvl>
+		<itemID>543</itemID>
+		<exp>400</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Necklace -->
+		<requiredLvl>72</requiredLvl>
+		<itemID>544</itemID>
+		<exp>420</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Amulet -->
+		<requiredLvl>80</requiredLvl>
+		<itemID>524</itemID>
+		<exp>600</exp>
+	</ItemCraftingDef>
+	<!-- OPAL -->
+	<ItemCraftingDef><!-- Ring -->
+		<requiredLvl>85</requiredLvl>
+		<itemID>1321</itemID>
+		<exp>180</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Necklace -->
+		<requiredLvl>95</requiredLvl>
+		<itemID>1692</itemID>
+		<exp>200</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Amulet -->
+		<requiredLvl>95</requiredLvl>
+		<itemID>1699</itemID>
+		<exp>200</exp>
+	</ItemCraftingDef>
+	<!-- Topaz -->
+	<ItemCraftingDef><!-- Ring -->
+		<requiredLvl>100</requiredLvl>
+		<itemID>1696</itemID>
+		<exp>210</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Necklace -->
+		<requiredLvl>115</requiredLvl>
+		<itemID>1693</itemID>
+		<exp>220</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Amulet -->
+		<requiredLvl>120</requiredLvl>
+		<itemID>1700</itemID>
+		<exp>230</exp>
+	</ItemCraftingDef>
+	<!-- Jade -->
+	<ItemCraftingDef><!-- Ring -->
+		<requiredLvl>125</requiredLvl>
+		<itemID>1697</itemID>
+		<exp>300</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Necklace -->
+		<requiredLvl>130</requiredLvl>
+		<itemID>1694</itemID>
+		<exp>400</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Amulet -->
+		<requiredLvl>135</requiredLvl>
+		<itemID>1701</itemID>
+		<exp>500</exp>
+	</ItemCraftingDef>
+<!-- Onyx -->
+	<ItemCraftingDef><!-- Ring -->
+		<requiredLvl>140</requiredLvl>
+		<itemID>1698</itemID>
+		<exp>611</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Necklace -->
+		<requiredLvl>145</requiredLvl>
+		<itemID>1695</itemID>
+		<exp>700</exp>
+	</ItemCraftingDef>
+	<ItemCraftingDef><!-- Amulet -->
+		<requiredLvl>149</requiredLvl>
+		<itemID>1702</itemID>
+		<exp>800</exp>
+	</ItemCraftingDef>
+
+</ItemCraftingDef-array>
